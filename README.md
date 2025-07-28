@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/ae07ff0e-19e2-4cc8-8a75-a9d4fce17bb4
 # Biased Proportional Navigation (BPN) – Simulink Implementation
 
 This repository contains two Simulink models that implement the guidance law proposed in *“Biased proportional navigation with exponentially decaying error for impact angle control and path following”* (Erer et al., MED 2016). One model addresses **impact-angle control** against a stationary target; the other addresses **tail-chase/path-following** of a (virtual) moving target.
@@ -117,11 +115,7 @@ Both models share the same logical structure:
 
 Watch the tail chase demo
 <video controls
-      src="
-
-https://github.com/user-attachments/assets/6023926a-bc71-4112-bc3b-d06849e63338
-
-"
+      src="https://github.com/user-attachments/assets/6023926a-bc71-4112-bc3b-d06849e63338"
       style="max-width:100%;">
   Your browser doesn’t support HTML5 video.
 </video>

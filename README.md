@@ -95,7 +95,7 @@ Both models share the same logical structure:
 
 **Video:**
 
-<video src="videos/impact_angle_control_90_degrees.mp4" width="640" controls></video>
+[▶️ Watch the 90° control demo](videos/impact_angle_control_90_degrees.mp4)
 
 ### Path-Following / Tail-Chase
 
@@ -109,7 +109,7 @@ Both models share the same logical structure:
 
 **Video:**
 
-<video src="videos/tail_chase.mp4" width="640" controls></video>
+[▶️ Watch the tail chase demo](videos/tail_chase.mp4)
 
 ### Merged Impact Angle Control Results
 ![Error e](merged_all_results_for_impact_angle_control_2025_07_28_113632/error.png)
@@ -131,7 +131,7 @@ Both models share the same logical structure:
 
 **Video:**
 
-<video src="videos/impact_angle_control_45_degrees.mp4" width="640" controls></video>
+[▶️ Watch the 45° control demo](videos/impact_angle_control_45_degrees.mp4)
 
 ---
 

@@ -95,6 +95,12 @@ Both models share the same logical structure:
 
 **Video:**
 
+  <video controls
+        src="videos/impact_angle_control_90_degrees.mp4"
+        style="max-width:100%;">
+    Your browser doesn’t support HTML5 video.
+  </video>
+
 [▶️ Watch the 90° control demo](videos/impact_angle_control_90_degrees.mp4)
 
 ### Path-Following / Tail-Chase

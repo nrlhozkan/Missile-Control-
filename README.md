@@ -115,7 +115,7 @@ Both models share the same logical structure:
 
 Watch the tail chase demo
 <video controls
-      src="https://github.com/user-attachments/assets/6023926a-bc71-4112-bc3b-d06849e63338"
+      src="https://github.com/user-attachments/assets/03189754-e318-47a8-b663-f0c8c1a863ed"
       style="max-width:100%;">
   Your browser doesn’t support HTML5 video.
 </video>

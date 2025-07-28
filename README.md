@@ -24,6 +24,8 @@ video_writer2.m                      # Script to generate videos from tail chase
 3. **Run the simulation**. The model logs `a` (acceleration command), `e` (error), `lambda`, `lambdaDot`, `gamma`, `gammaT`, positions, etc., to the MATLAB workspace.
 4. **View scopes** or post-process the logged data.
 
+**Note that path following and tail chase have the same meaning, they used interchangeably in the project.**
+
 ---
 ## Model Architecture at a Glance
 

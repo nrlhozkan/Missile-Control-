@@ -96,12 +96,12 @@ Both models share the same logical structure:
 **Video:**
 
   <video controls
-        src="videos/impact_angle_control_90_degrees.mp4"
+        src="https://github.com/nrlhozkan/Missile_Control/blob/8ce1b9c1d3cccf16b451b715914a2afa0ad7b917/videos/impact_angle_control_90_degrees"
         style="max-width:100%;">
     Your browser doesn’t support HTML5 video.
   </video>
 
-[▶️ Watch the 90° control demo](videos/impact_angle_control_90_degrees.mp4)
+[▶️ Watch the 90° control demo](https://github.com/nrlhozkan/Missile_Control/blob/8ce1b9c1d3cccf16b451b715914a2afa0ad7b917/videos/impact_angle_control_90_degrees)
 
 ### Path-Following / Tail-Chase
 

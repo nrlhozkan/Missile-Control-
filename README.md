@@ -85,13 +85,13 @@ Both models share the same logical structure:
 
 ### Impact-Angle Control
 
-![Error e](.\impact_angle_control_results_scenario12025_07_28_112427\impact_angle_control_error.png)
+![Error e](impact_angle_control_results_scenario12025_07_28_112427/impact_angle_control_error.png)
 
-![Pursuer Trajectory](.\impact_angle_control_results_scenario12025_07_28_112427\impact_angle_control_trajectory.png)
+![Pursuer Trajectory](impact_angle_control_results_scenario12025_07_28_112427/impact_angle_control_trajectory.png)
 
-![Flight-path Angle](.\impact_angle_control_results_scenario12025_07_28_112427\impact_angle_control_flight_path_angle.png)
+![Flight‑path Angle](impact_angle_control_results_scenario12025_07_28_112427/impact_angle_control_flight_path_angle.png)
 
-![Acceleration History](.\impact_angle_control_results_scenario12025_07_28_112427\impact_angle_control_acceleration.png)
+![Acceleration History](impact_angle_control_results_scenario12025_07_28_112427/impact_angle_control_acceleration.png)
 
 **Video:**
 

@@ -4,21 +4,19 @@ This repository contains two Simulink models that implement the guidance law pro
 
 ---
 ## Contents
-
 ```
-impact_angle_control.slx   # Impact-angle scenario (stationary target)
-tail_chase.slx             # Path-following / tail-chase scenario (virtual target)
-parameters_new.m           # Parameters and initial conditions for both models
-README.md                  # This file, describing the models and usage
-all_three_scenario_for_impact.m # Script to plot results from all three scenarios using out mat files
-impact_angle_control_results.m # Script to plot results from impact angle control scenarios
+impact_angle_control.slx            # Impact-angle scenario (stationary target)
+tail_chase.slx                      # Path-following / tail-chase scenario (virtual target)
+parameters_new.m                    # Parameters and initial conditions for both models
+README.md                           # This file, describing the models and usage
+all_three_scenario_for_impact.m     # Script to plot results from all three scenarios using out mat files
+impact_angle_control_results.m      # Script to plot results from impact angle control scenarios
 mat files (e.g., impact_angle_control_results_s1.mat) # Output data from simulations 
-tail_chase_results.m # Script to plot results from tail chase scenario 
+tail_chase_results.m                 # Script to plot results from tail chase scenario 
 video files in video folder (e.g., impact_angle_control.mp4) # Simulation videos
-video_writer.m # Script to generate videos from impact angle control output data
-video_writer2.m # Script to generate videos from tail chase output data
+video_writer.m                       # Script to generate videos from impact angle control output data
+video_writer2.m                      # Script to generate videos from tail chase output data
 ```
-
 ---
 ## Quick Start
 1. **Open parameters_new** file and set the `mode` variable to either `'impact_angle_control'` or `'tail_chase'` to select the desired scenario. 

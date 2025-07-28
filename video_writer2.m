@@ -60,7 +60,7 @@ xlabel('Downrange (m)','FontSize',textFont);
 ylabel('Crossrange (m)','FontSize',textFont);
 title('Path‐Following: Pursuer & Moving Target','FontSize',textFont);
 
-xlim(hAx,[min(allX)-10, max(allX)+10]);
+xlim(hAx,[min(allX)-10, max(allX)+50]);
 ylim(hAx,[min([out.yP_out; out.yT_out])-10, max([out.yP_out; out.yT_out])+50]);
 
 % text layout

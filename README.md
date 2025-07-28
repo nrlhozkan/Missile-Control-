@@ -95,43 +95,43 @@ Both models share the same logical structure:
 
 **Video:**
 
-<video src="./videos/impact_angle_control_90_degrees.mp4" width="640" controls></video>
+<video src="videos/impact_angle_control_90_degrees.mp4" width="640" controls></video>
 
 ### Path-Following / Tail-Chase
 
-![Pursuer vs Virtual Target Trajectory](.\tail_chase_results_2025_07_28_113113\trajectory_path_following.png)
+![Pursuer vs Virtual Target Trajectory](tail_chase_results_2025_07_28_113113/trajectory_path_following.png)
 
-![Flight-path Angle (Path-Following)](.\tail_chase_results_2025_07_28_113113\flight_path_angle_path_following.png)
+![Flight-path Angle (Path-Following)](tail_chase_results_2025_07_28_113113/flight_path_angle_path_following.png)
 
-![Acceleration (Path-Following)](.\tail_chase_results_2025_07_28_113113\acceleration_path_following.png)
+![Acceleration (Path-Following)](tail_chase_results_2025_07_28_113113/acceleration_path_following.png)
 
-![Error e (Path-Following)](.\tail_chase_results_2025_07_28_113113\error_path_following.png)
+![Error e (Path-Following)](tail_chase_results_2025_07_28_113113/error_path_following.png)
 
 **Video:**
 
-<video src=".\videos\tail_chase.mp4" width="640" controls></video>
+<video src="videos/tail_chase.mp4" width="640" controls></video>
 
 ### Merged Impact Angle Control Results
-![Error e](.\merged_all_results_for_impact_angle_control_2025_07_28_113632\error.png)
+![Error e](merged_all_results_for_impact_angle_control_2025_07_28_113632/error.png)
 
-![Pursuer Trajectory](.\merged_all_results_for_impact_angle_control_2025_07_28_113632\trajectory.png)
+![Pursuer Trajectory](merged_all_results_for_impact_angle_control_2025_07_28_113632/trajectory.png)
 
-![Flight-path Angle](.\merged_all_results_for_impact_angle_control_2025_07_28_113632\flight_path_angle.png)
+![Flight-path Angle](merged_all_results_for_impact_angle_control_2025_07_28_113632/flight_path_angle.png)
 
-![Acceleration History](.\merged_all_results_for_impact_angle_control_2025_07_28_113632\acceleration.png)
+![Acceleration History](merged_all_results_for_impact_angle_control_2025_07_28_113632/acceleration.png)
 
 ### Impact Angle Control 45 Degrees Results
-![Error e](.\impact_angle_45_control_results_scenario12025_07_28_115042\impact_angle_control_error.png)
+![Error e](impact_angle_45_control_results_scenario12025_07_28_115042/impact_angle_control_error.png)
 
-![Pursuer Trajectory](.\impact_angle_45_control_results_scenario12025_07_28_115042\impact_angle_control_trajectory.png)
+![Pursuer Trajectory](impact_angle_45_control_results_scenario12025_07_28_115042/impact_angle_control_trajectory.png)
 
-![Flight-path Angle](.\impact_angle_45_control_results_scenario12025_07_28_115042\impact_angle_control_flight_path_angle.png)
+![Flight-path Angle](impact_angle_45_control_results_scenario12025_07_28_115042/impact_angle_control_flight_path_angle.png)
 
-![Acceleration History](.\impact_angle_45_control_results_scenario12025_07_28_115042\impact_angle_control_acceleration.png)
+![Acceleration History](impact_angle_45_control_results_scenario12025_07_28_115042/impact_angle_control_acceleration.png)
 
 **Video:**
 
-<video src="./videos/impact_angle_control_45_degrees.mp4" width="640" controls></video>
+<video src="videos/impact_angle_control_45_degrees.mp4" width="640" controls></video>
 
 ---
 

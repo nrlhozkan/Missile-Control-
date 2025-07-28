@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/ae07ff0e-19e2-4cc8-8a75-a9d4fce17bb4
 # Biased Proportional Navigation (BPN) – Simulink Implementation
 
 This repository contains two Simulink models that implement the guidance law proposed in *“Biased proportional navigation with exponentially decaying error for impact angle control and path following”* (Erer et al., MED 2016). One model addresses **impact-angle control** against a stationary target; the other addresses **tail-chase/path-following** of a (virtual) moving target.
@@ -94,14 +96,12 @@ Both models share the same logical structure:
 ![Acceleration History](impact_angle_control_results_scenario12025_07_28_112427/impact_angle_control_acceleration.png)
 
 **Video:**
-
+▶️ Watch the 90° control demo
 <video controls
-      src="https://github.com/user-attachments/assets/2bc7aa80-2fde-4106-85ea-beab1aa14d09"
+      src="https://github.com/user-attachments/assets/8ab9eedf-d558-4cc9-86f5-523fd37b8ae9"
       style="max-width:100%;">
   Your browser doesn’t support HTML5 video.
 </video>
-
-[▶️ Watch the 90° control demo](videos/impact_angle_control_90_degrees.mp4)
 
 ### Path-Following / Tail-Chase
 
@@ -115,7 +115,16 @@ Both models share the same logical structure:
 
 **Video:**
 
-[▶️ Watch the tail chase demo](videos/tail_chase.mp4)
+Watch the tail chase demo
+<video controls
+      src="
+
+https://github.com/user-attachments/assets/6023926a-bc71-4112-bc3b-d06849e63338
+
+"
+      style="max-width:100%;">
+  Your browser doesn’t support HTML5 video.
+</video>
 
 ### Merged Impact Angle Control Results
 ![Error e](merged_all_results_for_impact_angle_control_2025_07_28_113632/error.png)
@@ -137,7 +146,13 @@ Both models share the same logical structure:
 
 **Video:**
 
-[▶️ Watch the 45° control demo](videos/impact_angle_control_45_degrees.mp4)
+▶️ Watch the 45° control demo
+
+<video controls
+      src="https://github.com/user-attachments/assets/8c260e0e-47c1-4c40-ad79-f5bc2d811460"
+      style="max-width:100%;">
+  Your browser doesn’t support HTML5 video.
+</video>
 
 ---
 
